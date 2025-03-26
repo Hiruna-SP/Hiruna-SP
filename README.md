@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hiruna-SP
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning React
 - 📫 How to reach me hirunasp@gmail.com
 
 
