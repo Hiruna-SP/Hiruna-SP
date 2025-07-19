@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/MLSA_logo.png" alt="MLSA Logo" height="80"/>
-</p>
 
 <h1 align="center">Hi there 👋, I'm Hiruna Panditha</h1>
 
